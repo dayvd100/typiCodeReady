@@ -1,0 +1,16 @@
+body{
+  background: grey;
+}
+
+
+.container{
+  height: 100vh;
+  background: rgb(158, 157, 157);
+}
+
+.search-container{
+  width: 20%;
+  margin-left: 45.5%;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
